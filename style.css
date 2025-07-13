@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: pink;
+   
+}
+
+
+.main{
+    padding-top: 40%;
+}
+ 
+input{
+    font-size: 30px;
+    width: 200px;
+    border: 2px solid red;
+    boder-radius: 20px;
+    background: transparent;
+    padding-left: 10px;
+}
+
+button{
+    padding:5px;
+    font-size: 40px;
+    background: black;
+    color: white;
+    border: 2px solid gray;
+    border-radius:20px;
+}
+
+.contant{
+    display: none;
+    font-size: 30px;
+    font-family: 'pacifico', cursive;
+    color: red;
+    text-shadow: 0 0 9px blue, 0 0 7px #fff 0 0 10px #fff;
+}
+
+.hrart{
+    animation: zoom 1s linear;
+    animation-iteration-count: infinite;
+}
+
+.baby{
+    padding-left: 0px ;
+}
