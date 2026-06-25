@@ -11,6 +11,6 @@
     <h3 class="back">HAPPY BIRTHDAY!</h3>
     <p>Dear friend,</p>
     <p>Happy birthday!! I hope your day is filled with lots of love and laughter! May all of your birthday wishes come true.</p>
-    <p class="name">Sandhya</p>
+    <p class="name">Twilight</p>
   </div>
 </div
